@@ -1,0 +1,2 @@
+# tiny-notes
+rust project
